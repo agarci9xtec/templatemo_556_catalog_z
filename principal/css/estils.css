@@ -1,0 +1,17 @@
+/*ALEX*/
+.tm-video-item img {
+
+    aspect-ratio: 4/2;
+    object-fit: cover;
+}
+
+.tm-footer-title {
+    margin-right: 25px;
+}
+
+/* h2{
+    font-size: 2.3em;
+    color: #FFFFFF;
+background: #FFFFFF;
+text-shadow: 2px 2px 0 #444444, 2px -2px 0 #444444, -2px 2px 0 #444444, -2px -2px 0 #444444, 2px 0px 0 #444444, 0px 2px 0 #444444, -2px 0px 0 #444444, 0px -2px 0 #444444;
+} */

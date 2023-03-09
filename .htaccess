@@ -1,0 +1,7 @@
+AddHandler application/x-httpd-php .html .htm
+
+RewriteEngine on
+
+RewriteOptions inherit
+RewriteCond %{HTTP_HOST} ^.*$
+RewriteRule ^/?$ "https\:\/\/castellethtml\.cat\/principal" [R=301,L]
