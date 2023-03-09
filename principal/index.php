@@ -126,7 +126,7 @@ $im = imagecreatefrompng($src);
          $project_name=explode("_",$dirname);
          if (isset($project_name[1])){
             $author=$project_name[1];
-         }esle{
+         }else{
             $author="";
          }
          
